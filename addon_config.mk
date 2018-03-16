@@ -1,5 +1,5 @@
 meta:
-	ADDON_NAME = ofxEigen
+	ADDON_NAME = ofxCereal
 	ADDON_DESCRIPTION = An openFrameworks wrapper for Cereal.
 	ADDON_AUTHOR = Christopher Baker
 	ADDON_TAGS = "serialization"
@@ -12,7 +12,7 @@ common:
 
 	# Manually add the includes and source.
 	ADDON_INCLUDES = libs/cereal/include
-	ADDON_INCLUDES += libs/ofxCerial/include
+	ADDON_INCLUDES += libs/ofxCereal/include
 	ADDON_INCLUDES += src
 
 osx:
