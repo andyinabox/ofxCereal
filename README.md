@@ -7,13 +7,17 @@ An [openFrameworks](http://openframeworks.cc) wrapper for [Cereal](https://githu
 
 ## Features
 
--   Simply a thin wrapper.
+-   Simply a thin wrapper of the [Cereal](https://github.com/USCiLab/cereal) serialization library.
 
 ## Getting Started
 
 ### TL;DR
 -   From the `example/` directory ...
     -   `make && make run`
+
+-   Note: This library includes the cereal library (a header only library).
+
+###
 
 ## Documentation
 
